@@ -11,4 +11,4 @@ Páginas criadas com HTML, utilizado somente tabelas para estrutura das páginas
     ** brigadeiro_nozes.html
     ** compartilhar_receita.html
     ** sobremesas.html
-
+    ** inicio.html
